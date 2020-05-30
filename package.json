@@ -1,0 +1,27 @@
+{
+	"name": "pf-header-parser",
+	"version": "0.0.1",
+	"description": "FCC API & Microservices projects - build a HTTP request header parser",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"engines": {
+		"node": ">=10.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Peacha/pf-header-parser.git"
+	},
+	"keywords": [
+		"node",
+		"express",
+		"freecodecamp",
+		"header",
+		"parser"
+	],
+	"license": "MIT"
+}
