@@ -9,11 +9,22 @@ body {
   background-color: #404040;
   font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
+@media (min-width: 1024px) {
+  body {
+    height: 100vh;
+    display: flex;
+  }
+}
 body #info-container {
   color: #404040;
   background-color: #f0f0f0;
   margin: 0 auto 0 auto;
   max-width: 1000px;
+}
+@media (min-width: 1024px) {
+  body #info-container {
+    margin: auto;
+  }
 }
 body #info-container h1 {
   text-align: left;
