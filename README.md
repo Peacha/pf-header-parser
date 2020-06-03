@@ -5,7 +5,7 @@ Welcome, you've arrived the home of a HTTP Request Header Parser, created as an 
 ### API Usage
 
 The header parser API responds to HTML GET methods, and is accessible. via the following endpoint:
-`https://pf-header-parser.ts.r.appspot.com/api/whoami`
+`https://header-parser-dot-pf-file-metadata.ts.r.appspot.com/api/whoami`
 
 ### Example Output
 
